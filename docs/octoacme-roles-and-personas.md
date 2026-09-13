@@ -381,6 +381,166 @@ Customer Success Specialists and User Advocates represent end-user needs, collec
 
 ---
 
+## Business Analyst
+
+### Role Summary
+Business Analysts bridge the gap between business needs and technical solutions by gathering requirements, analyzing business processes, and ensuring delivered solutions truly address customer problems.
+
+### Responsibilities
+- Conduct stakeholder interviews and requirement elicitation
+- Document business processes and identify improvement opportunities
+- Validate acceptance criteria align with business objectives
+- Facilitate communication between business stakeholders and technical teams
+- Ensure traceability from business need to implementation
+
+### Goals
+- Reduce rework by clarifying requirements upfront
+- Ensure solutions deliver measurable business value
+- Enable faster time-to-value through clear specifications
+
+### Typical Communication
+- Requirements gathering sessions and stakeholder interviews
+- Process documentation and specification documents
+- Traceability matrices and requirement reviews
+- Business impact assessments
+
+### Key Interactions
+- **Product Managers**: Collaborates on requirements definition and acceptance criteria
+- **Developers**: Provides detailed specifications and validates implementation against requirements
+- **Project Managers**: Supports planning by clarifying scope and dependencies
+- **Stakeholders**: Represents stakeholder needs and validates solution fit
+- **QA Lead**: Works with QA to ensure acceptance criteria are testable and comprehensive
+
+---
+
+## Compliance Officer
+
+### Role Summary
+Compliance Officers ensure projects adhere to regulatory requirements, internal policies, and industry standards while maintaining audit trails and managing compliance risk.
+
+### Responsibilities
+- Review project requirements for regulatory and compliance implications
+- Audit implementation against compliance frameworks
+- Maintain documentation of compliance decisions and evidence
+- Escalate compliance risks and coordinate remediation
+- Advise on data privacy, security, and legal requirements
+
+### Goals
+- Prevent regulatory violations and associated penalties
+- Ensure consistent compliance across all projects
+- Reduce audit risk and improve audit readiness
+
+### Typical Communication
+- Compliance reviews during planning and implementation phases
+- Audit reports and compliance assessments
+- Risk escalations and remediation tracking
+- Regulatory guidance and best practice updates
+
+### Key Interactions
+- **Project Manager**: Escalates compliance risks and participates in risk mitigation
+- **Developers**: Reviews code and architecture for compliance adherence
+- **Security & Compliance Officer**: Works closely on security and legal requirements
+- **Stakeholders**: Reports compliance status and audit readiness
+- **Technical Lead**: Reviews technical architecture for compliance implications
+
+---
+
+## Change Management Specialist
+
+### Role Summary
+Change Management Specialists lead organizational adoption of new processes, systems, and ways of working by managing stakeholder communication, training, and resistance.
+
+### Responsibilities
+- Develop change management plans and communication strategies
+- Identify stakeholders impacted by changes and their concerns
+- Design and deliver training and enablement programs
+- Manage stakeholder resistance and drive adoption
+- Monitor change impact and adjust strategies as needed
+
+### Goals
+- Maximize user adoption and minimize change resistance
+- Reduce post-deployment support burden
+- Enable sustainable long-term behavior change
+
+### Typical Communication
+- Change impact assessments and stakeholder analyses
+- Training programs and enablement sessions
+- Adoption tracking and feedback surveys
+- Executive updates on change progress
+
+### Key Interactions
+- **Project Manager**: Partners on change impact assessment and communication planning
+- **Release Manager**: Coordinates change communication with deployment announcements
+- **Customer Success / User Advocate**: Supports adoption tracking and feedback integration
+- **Stakeholders**: Manages executive communication and adoption metrics
+- **Documentation Specialist**: Creates training materials and change documentation
+
+---
+
+## Analytics & Insights Specialist
+
+### Role Summary
+Analytics Specialists design measurement strategies, collect project and product metrics, and provide data-driven insights to inform prioritization and optimization decisions.
+
+### Responsibilities
+- Design KPI frameworks and success metrics
+- Implement analytics and data collection infrastructure
+- Analyze project progress and product performance data
+- Generate insights and trend reports for leadership
+- Identify optimization opportunities based on data patterns
+
+### Goals
+- Enable data-informed decision-making across the organization
+- Track and demonstrate business value delivered by projects
+- Identify and address performance bottlenecks proactively
+
+### Typical Communication
+- Metric definitions and KPI dashboards
+- Performance reports and trend analysis
+- Optimization recommendations and insights
+- Executive dashboards and business outcome reporting
+
+### Key Interactions
+- **Product Managers**: Provides metrics on feature adoption and business impact
+- **Project Manager**: Reports on project velocity, quality metrics, and delivery progress
+- **QA Lead**: Collaborates on quality metrics and test coverage reporting
+- **Stakeholders**: Delivers executive dashboards and business outcome reporting
+- **DevOps Engineer**: Works on operational metrics and system performance data
+
+---
+
+## Customer Success Manager
+
+### Role Summary
+Customer Success Managers ensure delivered solutions drive customer value by gathering feedback, monitoring adoption, and coordinating customer success initiatives.
+
+### Responsibilities
+- Monitor customer satisfaction and success metrics
+- Gather and synthesize customer feedback and usage patterns
+- Coordinate customer training and onboarding
+- Identify and escalate customer pain points
+- Track business outcomes delivered to customers
+
+### Goals
+- Maximize customer satisfaction and retention
+- Identify feature improvements and new opportunities from customer feedback
+- Enable customers to achieve their desired outcomes with delivered solutions
+
+### Typical Communication
+- Customer success metrics and satisfaction tracking
+- Feedback summaries and customer insights
+- Training and onboarding coordination
+- Business outcome and impact reporting
+
+### Key Interactions
+- **Product Managers**: Provides customer insights for prioritization and roadmap planning
+- **Developers**: Shares customer feedback on usability and feature requests
+- **Project Manager**: Participates in planning and milestone reviews for customer-facing features
+- **Stakeholders**: Reports on customer satisfaction and business outcomes
+- **Change Management Specialist**: Coordinates customer adoption and enablement activities
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
