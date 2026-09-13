@@ -277,6 +277,110 @@ Documentation Specialists capture organizational knowledge, maintain process doc
 
 ---
 
+## DevOps Engineer / Infrastructure Specialist
+
+### Role Summary
+DevOps Engineers design, build, and maintain infrastructure, deployment pipelines, and operational systems that enable reliable, scalable software delivery. They bridge development and operations to automate processes and reduce manual effort.
+
+### Responsibilities
+- Design and maintain CI/CD pipelines and automation
+- Manage development, staging, and production environments
+- Implement infrastructure-as-code and configuration management
+- Monitor system performance, reliability, and security
+- Troubleshoot deployment issues and coordinate rollbacks
+- Document runbooks and operational procedures
+- Collaborate on scalability and performance improvements
+
+### Goals
+- Enable fast, reliable, repeatable deployments
+- Minimize manual operational overhead
+- Maintain high system availability and performance
+- Reduce deployment risk through automation and monitoring
+
+### Typical Communication
+- Deployment planning and coordination
+- CI/CD pipeline reviews and improvements
+- Incident response and post-incident reviews
+- Infrastructure and performance metrics discussions
+
+### Key Interactions
+- **Release Manager**: Coordinates deployment windows and executes releases
+- **Developers**: Ensures code meets deployability standards; supports troubleshooting
+- **Technical Lead**: Advises on infrastructure architecture and scalability
+- **QA Lead**: Coordinates environment setup and test infrastructure
+
+---
+
+## Security & Compliance Officer
+
+### Role Summary
+Security & Compliance Officers ensure that projects adhere to security standards, compliance requirements, and risk management policies. They identify security risks, validate controls, and enable secure, compliant delivery.
+
+### Responsibilities
+- Define and enforce security standards and practices
+- Conduct security reviews and threat assessments
+- Validate compliance with regulatory and internal requirements
+- Review code and infrastructure for security vulnerabilities
+- Lead incident response for security events
+- Maintain security and compliance documentation
+- Provide security guidance and training to teams
+
+### Goals
+- Prevent security vulnerabilities and breaches
+- Ensure regulatory compliance and audit readiness
+- Build a culture of security awareness
+- Enable secure, compliant innovation
+
+### Typical Communication
+- Security reviews during planning and design phases
+- Vulnerability assessments and remediation tracking
+- Compliance audits and status reporting
+- Incident response and post-incident reviews
+
+### Key Interactions
+- **Product Managers**: Advises on security and compliance implications of features
+- **Technical Lead**: Reviews architecture for security and scalability concerns
+- **Developers**: Provides secure coding guidance and reviews security-critical code
+- **Release Manager**: Validates security readiness before production release
+- **Project Manager**: Escalates compliance blockers and risk factors
+
+---
+
+## Customer Success / User Advocate
+
+### Role Summary
+Customer Success Specialists and User Advocates represent end-user needs, collect customer feedback, and ensure that delivered solutions truly solve customer problems. They bridge the gap between customer reality and product decisions.
+
+### Responsibilities
+- Gather and synthesize customer feedback and usage data
+- Conduct user research and usability testing
+- Validate solutions against customer needs and pain points
+- Communicate customer insights to product and engineering teams
+- Support customer onboarding and adoption
+- Track customer satisfaction and success metrics
+- Identify feature gaps and improvement opportunities
+
+### Goals
+- Ensure solutions deliver real customer value
+- Increase customer satisfaction and retention
+- Reduce feature waste by validating assumptions
+- Build products that customers love to use
+
+### Typical Communication
+- Customer feedback summaries and insights
+- Usability test results and recommendations
+- Feature validation and acceptance criteria review
+- Customer success metrics and trends
+
+### Key Interactions
+- **Product Managers**: Provides customer insights to inform prioritization
+- **Developers**: Collaborates on feature validation and user experience
+- **QA Lead**: Partners on acceptance criteria and user acceptance testing
+- **Project Manager**: Participates in planning and milestone reviews
+- **Stakeholders**: Reports on customer impact and business outcomes
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
