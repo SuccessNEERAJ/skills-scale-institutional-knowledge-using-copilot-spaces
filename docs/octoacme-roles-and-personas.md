@@ -75,7 +75,209 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Technical Lead / Architect
+
+### Role Summary
+Technical Leads provide strategic technical direction and ensure system designs align with long-term scalability, performance, and maintainability goals. They partner with developers and product managers to navigate technical complexity and reduce architectural risk.
+
+### Responsibilities
+- Lead technical design reviews and architecture decisions
+- Assess technical risks and propose mitigation strategies
+- Mentor developers on design patterns and best practices
+- Collaborate with Product Managers on technical feasibility and trade-offs
+- Ensure code quality standards and testing practices are met
+- Identify technical debt and prioritize refactoring work
+- Establish and maintain technical standards and guidelines
+
+### Goals
+- Ensure systems are scalable, maintainable, and performant
+- Reduce technical risk and technical debt accumulation
+- Enable team velocity through clear architectural guidance
+- Foster a culture of technical excellence
+
+### Typical Communication
+- Technical design reviews with developers and product teams
+- Architecture decision records (ADRs)
+- Technical risk assessments in planning and weekly syncs
+- Collaboration with Release Manager on deployment strategy
+
+### Key Interactions
+- **Developers**: Reviews designs, mentors on implementation, provides technical guidance
+- **Product Managers**: Advises on feasibility, technical trade-offs, and long-term scalability impact
+- **Project Managers**: Escalates technical blockers and risks; collaborates on mitigation planning
+- **Release Manager**: Advises on deployment strategy and system compatibility
+
+---
+
+## Release Manager
+
+### Role Summary
+Release Managers coordinate all release activities, manage deployment schedules, communicate timelines to stakeholders, and oversee rollback procedures. They ensure smooth, predictable releases and maintain post-deployment stability.
+
+### Responsibilities
+- Coordinate release planning and deployment windows
+- Manage release notes and stakeholder communications
+- Oversee staging environment testing and sign-off
+- Execute or coordinate production deployments
+- Manage rollback procedures and incident response
+- Track release metrics and post-deployment verification
+- Ensure deployment runbooks are current and accessible
+
+### Goals
+- Deliver releases on schedule with minimal risk
+- Reduce mean time to recovery (MTTR) from incidents
+- Maintain clear, consistent stakeholder communication about releases
+- Establish repeatable, reliable deployment processes
+
+### Typical Communication
+- Release planning meetings with project and product teams
+- Deployment coordination and status updates
+- Post-deployment verification reports
+- Incident and escalation communications
+
+### Key Interactions
+- **Project Manager**: Aligns on release timeline, dependencies, and stakeholder communication
+- **Developers**: Coordinates deployment artifacts, runbooks, and rollback procedures
+- **QA Lead**: Confirms readiness and conducts final smoke tests before production deployment
+- **Technical Lead**: Reviews deployment strategy and validates system compatibility
+
+---
+
+## Quality Assurance Lead
+
+### Role Summary
+QA Leads own testing strategy, automation, and quality metrics. They ensure features meet acceptance criteria and maintain system reliability and performance.
+
+### Responsibilities
+- Define and maintain testing strategy (unit, integration, end-to-end)
+- Oversee test automation and CI/CD integration
+- Establish quality metrics and acceptance criteria frameworks
+- Lead manual QA and feature validation efforts
+- Identify quality risks and propose mitigation approaches
+- Coordinate with developers on testability and design for testing
+- Report quality metrics and trends to project leadership
+
+### Goals
+- Ensure high-quality releases with minimal defects
+- Increase testing efficiency through automation
+- Provide early visibility into quality risks
+- Enable fast, confident deployment cycles
+
+### Typical Communication
+- QA planning during sprint/iteration planning
+- Quality metrics and defect reports
+- Test case reviews and automation updates
+- Release readiness assessments
+
+### Key Interactions
+- **Developers**: Collaborates on testability, test design, and quality standards
+- **Project Managers**: Reports on quality metrics and risks; participates in release planning
+- **Release Manager**: Conducts final smoke tests and confirms release readiness
+- **Product Managers**: Validates acceptance criteria and feature quality
+
+---
+
+## Scrum Master / Agile Coach
+
+### Role Summary
+Scrum Masters facilitate agile ceremonies, remove blockers, and coach the team on process adherence and continuous improvement. They champion agile practices and create a culture of accountability and learning.
+
+### Responsibilities
+- Facilitate sprint planning, daily standups, reviews, and retrospectives
+- Remove impediments and blockers that slow team velocity
+- Coach team members on agile principles and practices
+- Maintain sprint health metrics and team velocity trends
+- Facilitate cross-team coordination and dependency management
+- Support retrospectives and drive action items to completion
+- Help teams adapt processes based on feedback and outcomes
+
+### Goals
+- Enable consistent, predictable team velocity
+- Foster psychological safety and continuous improvement
+- Remove organizational blockers to team productivity
+- Maintain clear, visible sprint progress
+
+### Typical Communication
+- Facilitation of all agile ceremonies
+- Blocker escalations to Project Manager and leadership
+- Retrospective action item tracking
+- Team health and velocity reporting
+
+### Key Interactions
+- **Project Manager**: Escalates organizational blockers and risks; coordinates dependency management
+- **All Team Members**: Facilitates ceremonies, removes impediments, coaches on agile practices
+- **Team Leadership**: Reports on team health, velocity, and process improvement needs
+
+---
+
+## Stakeholder / Sponsor
+
+### Role Summary
+Stakeholders and Sponsors provide business context, strategic guidance, and approvals for projects. They represent customer and business interests and enable decision-making at escalation points.
+
+### Responsibilities
+- Define business objectives and success criteria
+- Provide strategic context and priority for projects
+- Approve scope changes and major decisions
+- Communicate project status to executive leadership
+- Identify and escalate blockers to project delivery
+- Provide feedback on deliverables and outcomes
+- Support resource allocation and cross-team coordination
+
+### Goals
+- Ensure projects align with business strategy
+- Enable clear prioritization and decision-making
+- Maintain executive visibility and stakeholder alignment
+- Maximize business value delivered
+
+### Typical Communication
+- Project kickoff and milestone reviews
+- Monthly/quarterly stakeholder updates
+- Scope change and decision approvals
+- Escalation of blockers and risks
+
+### Key Interactions
+- **Product Manager**: Collaborates on business objectives, prioritization, and success metrics
+- **Project Manager**: Receives status updates, provides approvals, escalates decisions
+- **Team Leadership**: Provides strategic guidance and resource support
+
+---
+
+## Documentation Specialist
+
+### Role Summary
+Documentation Specialists capture organizational knowledge, maintain process documentation, create onboarding materials, and ensure information accessibility across the team. They convert tribal knowledge into discoverable, searchable artifacts.
+
+### Responsibilities
+- Maintain and update process documentation
+- Create and refine onboarding guides for new team members
+- Document lessons learned and best practices from projects
+- Organize and index institutional knowledge
+- Support retrospectives by capturing action items and insights
+- Ensure documentation is discoverable and up-to-date
+- Facilitate knowledge-sharing sessions and documentation reviews
+
+### Goals
+- Reduce onboarding time and single-person dependency risk
+- Preserve organizational knowledge and institutional memory
+- Improve team consistency and process adherence
+- Enable self-service access to critical information
+
+### Typical Communication
+- Documentation planning and reviews
+- Knowledge-sharing sessions
+- Retrospective support and capture
+- Updates to process and onboarding artifacts
+
+### Key Interactions
+- **All Roles**: Gathers inputs on processes, decisions, and lessons learned
+- **Project Manager**: Collaborates on project documentation and retrospective capture
+- **Product Manager**: Documents product vision, roadmap rationale, and success metrics
+- **Scrum Master**: Supports retrospectives and captures action items for team learning
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
+- Reference these role definitions when documenting processes, responsibilities, and decision authorities.
